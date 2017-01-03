@@ -1,0 +1,22 @@
+[
+  {  
+    "photo":"https://windows10ps.github.io/img/ic_folder_new.png",
+    "name":"Manolo",
+  },
+  {  
+    "photo":"https://windows10ps.github.io/img/ic_folder.png",
+    "name":"Carla",
+  },
+  {  
+    "photo":"https://windows10ps.github.io/img/ic_folder.png",
+    "name":"Stefan",
+  },
+  {  
+    "photo":"https://windows10ps.github.io/img/ic_folder.png",
+    "name":"Angeline",
+  },
+  {  
+    "photo":"https://windows10ps.github.io/img/ic_folder.png",
+    "name":"New name",
+  }
+]
