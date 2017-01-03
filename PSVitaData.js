@@ -1,22 +1,12 @@
 [
   {  
     "photo":"https://windows10ps.github.io/img/ic_folder_new.png",
-    "name":"Manolo",
+    "name":"Beta 0.7",
+    "url":""
   },
   {  
     "photo":"https://windows10ps.github.io/img/ic_folder.png",
-    "name":"Carla",
-  },
-  {  
-    "photo":"https://windows10ps.github.io/img/ic_folder.png",
-    "name":"Stefan",
-  },
-  {  
-    "photo":"https://windows10ps.github.io/img/ic_folder.png",
-    "name":"Angeline",
-  },
-  {  
-    "photo":"https://windows10ps.github.io/img/ic_folder.png",
-    "name":"New name",
+    "name":"Beta 0.5",
+    "url":""
   }
 ]
