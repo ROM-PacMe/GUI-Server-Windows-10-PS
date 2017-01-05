@@ -1,0 +1,26 @@
+h1, h2, p{
+    font-family: Arial, Helvetica, sans-serif !important;
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    color: red;
+}
+h2 {
+    font-size: 20px;
+    color: limegreen;
+}
+p {
+    font-size: 20px;
+}
+
+p > a {
+    text-align: center;
+    color: limegreen;
+    list-style: none;
+    text-decoration: none;
+}
+.servidor {
+    background: dimgray;
+    padding: 5px;
+}
